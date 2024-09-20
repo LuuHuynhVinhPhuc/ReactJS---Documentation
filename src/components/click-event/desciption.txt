@@ -1,0 +1,1 @@
+click event: Khi ta ấn vào một đối tượng nào đó thì nó sẽ handler một hàm với một việc nào đó 
